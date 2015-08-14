@@ -1,0 +1,8 @@
+flask
+flask-login
+flask-oauthlib
+flask-restful
+flask-sqlalchemy
+flask-whooshalchemy
+mysql-python
+uwsgi
